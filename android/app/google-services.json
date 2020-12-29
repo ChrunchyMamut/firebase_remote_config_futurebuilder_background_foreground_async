@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "460472026189",
+    "firebase_url": "https://fir-test-project-cb5c2.firebaseio.com",
+    "project_id": "fir-test-project-cb5c2",
+    "storage_bucket": "fir-test-project-cb5c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460472026189:android:59e0f9533619e97ff28804",
+        "android_client_info": {
+          "package_name": "sk.ucm.fpv.kai.firtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460472026189-qppc7molsjs1pdcbme0be8325up51or0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7PlC3cay91Tf_73XEyjIphHoBFfqCtUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460472026189-qppc7molsjs1pdcbme0be8325up51or0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460472026189-5vbiuqda4943033aaa4dqu4a1u85aefu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sk.ucm.fpv.kai.fir-test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
